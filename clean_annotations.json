@@ -1,0 +1,263 @@
+{
+  "1981063-2.jpg": {
+    "hospital_name": "Sunshine Hospitals",
+    "bill_number": null,
+    "bill_date": null,
+    "admit_date": "26-Aug-2018",
+    "discharge_date": "03-Sep-2018",
+    "mrn": null,
+    "total_amount": null
+  },
+  "2042173-10.jpg": {
+    "hospital_name": "Neotia Getwel Healthcare Centre",
+    "bill_number": null,
+    "bill_date": "28/09/2018",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "2042485-05.jpg": {
+    "hospital_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "2048528-06.jpg": {
+    "hospital_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "admit_date": "18-Sep-2018",
+    "discharge_date": "20-Sep-2018",
+    "mrn": "IP/18/012383",
+    "total_amount": null
+  },
+  "2090022-final bill-1.jpg": {
+    "hospital_name": "Phadnis Clinic Pvt. Ltd.",
+    "bill_number": "17913",
+    "bill_date": null,
+    "admit_date": "07/10/2018",
+    "discharge_date": "12/10/2018",
+    "mrn": null,
+    "total_amount": null
+  },
+  "5081561d46f6b4eb37f8d211d7677fff-34.jpg": {
+    "hospital_name": "Kaushik Pathology Laboratory",
+    "bill_number": null,
+    "bill_date": "26.01.2021",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "dd9386b1baaa9faa036f9ba8c2ae8474-14.jpg": {
+    "hospital_name": "Shrijeen Pathology Laboratory",
+    "bill_number": null,
+    "bill_date": "16/04/2021",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "e3b9a7681aaee52c0db6e2de41c4176c-24.jpg": {
+    "hospital_name": "Viswateja Hospital & Diagnostic Centre",
+    "bill_number": null,
+    "bill_date": "04/06/2021",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "f2b130026444cc5062b7f3673ad02bb8-125.jpg": {
+    "hospital_name": "Chintamani Hospital Diagnostic Centre",
+    "bill_number": "759",
+    "bill_date": "12-May-2021",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "f3e6c56ea0dbe75139dea30d72def3b0-16.jpg": {
+    "hospital_name": "Star X-Ray & Path Laboratory",
+    "bill_number": "30",
+    "bill_date": "12/04/2021",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "2042485-04.jpg": {
+    "hospital_name": "Columbia Asia Referral Hospital-Yeshwanthpur",
+    "bill_number": null,
+    "bill_date": "21/09/2018",
+    "admit_date": "18/09/2018",
+    "discharge_date": null,
+    "mrn": "YESH-000004816",
+    "total_amount": null
+  },
+  "2093222-11.jpg": {
+    "hospital_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": "5339.00"
+  },
+  "2096381-6.jpg": {
+    "hospital_name": null,
+    "bill_number": null,
+    "bill_date": null,
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": "ISHHI297212",
+    "total_amount": null
+  },
+  "16071997 Sojan Joseph - Acute Appendicitis Final bill.jpg": {
+    "hospital_name": "Lourdes Hospital",
+    "bill_number": "1607",
+    "bill_date": null,
+    "admit_date": "06/01/2018",
+    "discharge_date": "08/01/2018",
+    "mrn": "1113154",
+    "total_amount": "39740.00"
+  },
+  "2090022-final bill-1 (1).jpg": {
+    "hospital_name": "Phadnis Clinic Pvt. Ltd.",
+    "bill_number": "17913",
+    "bill_date": null,
+    "admit_date": "07/10/2018",
+    "discharge_date": "12/10/2018",
+    "mrn": null,
+    "total_amount": null
+  },
+  "2025020400155.R1_11c29561-a3c3-4a0f-8b88-792337cb6ae2.jpg": {
+    "hospital_name": "Mareengo Asia Hospitals",
+    "bill_number": "MGIC25/3598",
+    "bill_date": "05/02/2025",
+    "admit_date": "03/02/2025",
+    "discharge_date": "05/02/2025",
+    "mrn": "400035263",
+    "total_amount": "81089.00"
+  },
+  "2025042100054.R1_747fb8e4-7449-4f46-a880-0bbfa33a5967.jpg": {
+    "hospital_name": "Tulip Multispeciality Hospital Pvt. Ltd.",
+    "bill_number": "IBM223/25",
+    "bill_date": "06/04/2025",
+    "admit_date": "01/04/2025",
+    "discharge_date": "06/04/2025",
+    "mrn": "4/25-26",
+    "total_amount": null
+  },
+  "2025050500248.R1_2d1a1c8d-4253-4479-97bd-39708906448e.jpg": {
+    "hospital_name": "Zydus Hospitals & Healthcare Research Pvt. Ltd.",
+    "bill_number": "9992021273239",
+    "bill_date": "April 25, 2025",
+    "admit_date": "21/04/2025",
+    "discharge_date": "25/04/2025",
+    "mrn": "100021273239",
+    "total_amount": null
+  },
+  "2025050500248.R1_4a3778c4-1b45-482d-94a6-fa594eef5484.jpg": {
+    "hospital_name": null,
+    "bill_number": "INV-100025006551",
+    "bill_date": null,
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": null
+  },
+  "2022042700585.R1.2_0b595525-4db8-44da-a3d3-af7c2f92025c.jpg": {
+    "hospital_name": "Yashoda Hospitals",
+    "bill_number": "IPI5024867",
+    "bill_date": null,
+    "admit_date": "26-Apr-2024",
+    "discharge_date": "30-Apr-2024",
+    "mrn": "500044850",
+    "total_amount": null
+  },
+  "2025020400155.R1_25e8a48f-7352-4a97-8fa5-7f5b909b5082.jpg": {
+    "hospital_name": "Mareengo Asia Hospitals",
+    "bill_number": "MGIC25/3598",
+    "bill_date": "05/02/2025",
+    "admit_date": "03/02/2025",
+    "discharge_date": "05/02/2025",
+    "mrn": "400035263",
+    "total_amount": "81089.00"
+  },
+  "2025080400036.R1.1_112a8ede-9eb5-4042-a2b4-3a10700ec403.jpg": {
+    "hospital_name": "Dr. Namrata Eye Hospital",
+    "bill_number": "149",
+    "bill_date": "06/06/2025",
+    "admit_date": "06/06/2025",
+    "discharge_date": "06/06/2025",
+    "mrn": "DNLEJYP2024/008622",
+    "total_amount": "83000.00"
+  },
+  "2025080500116.R1_55f09c7a-681d-48b6-98ba-3e5abd82a904.jpg": {
+    "hospital_name": "Akanksha Medical Hospital",
+    "bill_number": "47",
+    "bill_date": "06/08/2025",
+    "admit_date": "02/08/2025",
+    "discharge_date": "06/08/2025",
+    "mrn": "0280825",
+    "total_amount": "15750.00"
+  },
+  "2025082800285.R1_2abe6ccf-0c81-4808-9994-e76da9770aa7.jpg": {
+    "hospital_name": "The Salvation Army Emergency Hospital",
+    "bill_number": "331",
+    "bill_date": "21/08/2025",
+    "admit_date": "20/08/2025",
+    "discharge_date": "21/08/2025",
+    "mrn": null,
+    "total_amount": "8831.00"
+  },
+  "2025062000216.PP1_d5aa3d7b-a81c-4c85-9cee-bc42ee3cc925.jpg": {
+    "hospital_name": "VCare Hospital",
+    "bill_number": "11234 / 70575",
+    "bill_date": "10/06/2025",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": "27997",
+    "total_amount": "300.00"
+  },
+  "2025090600249.PP1_1b511cae-2632-4ff1-b2aa-614e9cb7c14a.jpg": {
+    "hospital_name": "Star Hospital (A Unit of Medicentre Pvt. Ltd.)",
+    "bill_number": "728",
+    "bill_date": "30/08/2025",
+    "admit_date": "29/08/2025",
+    "discharge_date": null,
+    "mrn": null,
+    "total_amount": "4100.00"
+  },
+  "2025110400096.PP1_d03857c9-6a49-4f96-8a3a-77a0fdf929ea.jpg": {
+    "hospital_name": "Sh. Hardeo Singh Memorial Hospital",
+    "bill_number": "02616",
+    "bill_date": "03-Nov-2025",
+    "admit_date": "03-Nov-2025",
+    "discharge_date": null,
+    "mrn": "U-2966/2025",
+    "total_amount": "10000.00"
+  },
+  "2025121700311.R1_af11c84a-6e6f-434f-a1c4-071fc66a446d.jpg": {
+    "hospital_name": "Mauli Hospital",
+    "bill_number": "529",
+    "bill_date": "15/12/2025",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": "487 / 2025-2026",
+    "total_amount": "20610.00"
+  },
+  "2026010500054.R1_3323d189-f6fa-4c73-b8bd-c549021b2397.jpg": {
+    "hospital_name": "Vibrant Eye Care",
+    "bill_number": "25-26/518",
+    "bill_date": "30 Dec 2025",
+    "admit_date": null,
+    "discharge_date": null,
+    "mrn": "GO23532",
+    "total_amount": "58700.00"
+  }
+}
